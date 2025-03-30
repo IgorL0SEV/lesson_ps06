@@ -1,4 +1,4 @@
-# 🛋️ Парсер диванов с сайта [divan.ru](https://www.divan.ru)
+# 🛋️ Парсер диванов main.py с сайта [divan.ru](https://www.divan.ru)
 
 Скрипт main.py на Python с использованием Selenium, который собирает данные о диванах с сайта [divan.ru](https://www.divan.ru/category/divany) и сохраняет их в CSV-файл.
 
